@@ -7,7 +7,8 @@
         "catalog.api": "StartDebugging",
         "catalogdb": "StartWithoutDebugging",
         "basket.api": "StartDebugging",
-        "discount.grpc": "StartDebugging"
+        "discount.grpc": "StartDebugging",
+        "yarpapigateway": "StartDebugging"
       }
     }
   }
